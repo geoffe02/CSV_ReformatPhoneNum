@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CSV_ReformatPhoneNum", "CSV_ReformatPhoneNum\CSV_ReformatPhoneNum.pyproj", "{BA94061C-0F42-44A5-82E6-B4C71B1CC6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA94061C-0F42-44A5-82E6-B4C71B1CC6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA94061C-0F42-44A5-82E6-B4C71B1CC6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B91237-5E3C-4F43-A0D1-3FB18995456C}
+	EndGlobalSection
+EndGlobal
